@@ -1,11 +1,5 @@
 package com.qf.controller;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
-import org.springframework.ui.ModelMap;
-import org.springframework.web.bind.annotation.RequestMapping;
-
-import com.github.pagehelper.PageInfo;
 import com.qf.entity.Student;
 import com.qf.service.IStudentService;
 
